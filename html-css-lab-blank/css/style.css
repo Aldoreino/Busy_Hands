@@ -6,16 +6,6 @@ nav {
 	margin-left: -8px;
 	margin-right: -8px;
 	display: block;
-
-
-
-
-}
-
-#body {
-	
-
-
 }
 
 ul {
@@ -33,7 +23,6 @@ li {
 	display: inline;
 }
 
-
 #logo {
 	display: inline-block;
 	float: left;
@@ -50,8 +39,6 @@ li {
 	margin-right: 100px;
 }
 
-
-
 #shadow {
 	margin-top: -20px;
 
@@ -67,7 +54,7 @@ li {
 
 #request {
 	float: right;
-	position: absolute;
+	position: relative;
 }
 
 .background {
@@ -75,15 +62,16 @@ li {
 	width: ;
 }
 
-#request {
-	float: right;
-}
 
 #container {
 	display: inline-block;
 	float: left;
+	position: relative;
 
 }
 
+
+	
+}
 
 
